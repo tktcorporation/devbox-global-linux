@@ -1,0 +1,22 @@
+{
+  "packages": [
+    "slack@latest",
+    "discord@latest",
+    "copyq@latest",
+    "jetbrains-toolbox@latest",
+    "vscode@latest",
+    "gitkraken@latest",
+    "google-chrome@latest",
+    "ibus-engines.mozc@latest"
+  ],
+  "shell": {
+    "init_hook": [
+      "echo 'Welcome to devbox!' > /dev/null"
+    ],
+    "scripts": {
+      "test": [
+        "echo \"Error: no test specified\" && exit 1"
+      ]
+    }
+  }
+}

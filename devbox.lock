@@ -1,0 +1,74 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "copyq@latest": {
+      "last_modified": "2023-11-20T01:38:02Z",
+      "resolved": "github:NixOS/nixpkgs/3f21a22b5aafefa1845dec6f4a378a8f53d8681c#copyq",
+      "source": "devbox-search",
+      "version": "7.1.0",
+      "systems": {
+        "aarch64-linux": {
+          "store_path": "/nix/store/k4r7mvy1s43j0v7kl3cd3qi79i6yzkp6-CopyQ-7.1.0"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/fida6426lg683jd5zrdm8gzbsch54snf-CopyQ-7.1.0"
+        }
+      }
+    },
+    "discord@latest": {
+      "last_modified": "2023-11-19T00:55:35Z",
+      "resolved": "github:NixOS/nixpkgs/9ea24fc7e02b65c150c88e1412400b70087bd382#discord",
+      "source": "devbox-search",
+      "version": "0.0.35"
+    },
+    "gitkraken@latest": {
+      "last_modified": "2023-11-17T14:14:56Z",
+      "resolved": "github:NixOS/nixpkgs/a71323f68d4377d12c04a5410e214495ec598d4c#gitkraken",
+      "source": "devbox-search",
+      "version": "9.9.2"
+    },
+    "google-chrome@latest": {
+      "last_modified": "2023-11-17T22:53:09Z",
+      "resolved": "github:NixOS/nixpkgs/605b6f5e24ea3cbcec3be57853d27b721a6f3ec1#google-chrome",
+      "source": "devbox-search",
+      "version": "119.0.6045.159"
+    },
+    "ibus-engines.mozc@latest": {
+      "last_modified": "2023-11-19T17:46:56Z",
+      "resolved": "github:NixOS/nixpkgs/0bf3f5cf6a98b5d077cdcdb00a6d4b3d92bc78b5#ibus-engines.mozc",
+      "source": "devbox-search",
+      "version": "2.26.4660.102",
+      "systems": {
+        "aarch64-linux": {
+          "store_path": "/nix/store/cl89ibjm0v4i1rqijx3mycvwp1gvrpwi-ibus-mozc-2.26.4660.102"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/b5srkark2ygdiljda3q3widzax101n5n-ibus-mozc-2.26.4660.102"
+        }
+      }
+    },
+    "jetbrains-toolbox@latest": {
+      "last_modified": "2023-11-17T14:14:56Z",
+      "resolved": "github:NixOS/nixpkgs/a71323f68d4377d12c04a5410e214495ec598d4c#jetbrains-toolbox",
+      "source": "devbox-search",
+      "version": "2.1.0.18144"
+    },
+    "slack@latest": {
+      "last_modified": "2023-11-19T00:55:35Z",
+      "resolved": "github:NixOS/nixpkgs/9ea24fc7e02b65c150c88e1412400b70087bd382#slack",
+      "source": "devbox-search",
+      "version": "4.34.121"
+    },
+    "vscode@latest": {
+      "last_modified": "2023-11-19T17:46:56Z",
+      "resolved": "github:NixOS/nixpkgs/0bf3f5cf6a98b5d077cdcdb00a6d4b3d92bc78b5#vscode",
+      "source": "devbox-search",
+      "version": "1.84.2",
+      "systems": {
+        "x86_64-linux": {
+          "store_path": "/nix/store/lzylr5fpy9ipbfqvjxdqyaj81if6k145-vscode-1.84.2"
+        }
+      }
+    }
+  }
+}
